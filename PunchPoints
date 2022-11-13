@@ -1,0 +1,8 @@
+1. Pic of products.
+2. On duplicate entry of data while registering, nodejs abruptly stops
+3. Validation of data
+4. Update form needs to be pre-filled
+5. In cart user must be able to increase/decrease the number of products(min:1)
+6. use session storage instead of localStorage
+7. on expiration of session display proper message.
+8. refactoring of navbar

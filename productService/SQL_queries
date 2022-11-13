@@ -1,0 +1,12 @@
+Add new customer
+Check if email and password matches
+
+
+Add new product
+Get all products
+Update a product
+
+
+Add a product to cart of a particular customer
+Get cart items of a particular customer
+Delete a product from cart of a particular customer
